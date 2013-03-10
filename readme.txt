@@ -3,6 +3,7 @@ Break It (Free version)
 Internal version: 1.2
 Webpage: http://breakit.drywa.me
 Platforms: Windows 8 RT ( x86, x64 )
+Status: Finished! ( No more Updates or Changes )
 
 Release Notes:
 ----------------------------------------
