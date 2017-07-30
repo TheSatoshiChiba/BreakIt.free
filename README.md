@@ -1,8 +1,6 @@
-Break It (Free version)
-=======================
+# Break It (Free version)
 
-This is the source code of the Windows Store game "Break It". All assets are missing. Also there is no real Project file so to build the project you have to create a new one and import the source files. This Project is build on top of DirectXTK. I stored the header files in there but i left out the Lib/source files. I don't know if this source is working with the new Version of DirectXTK but I don't really care. This code is just here to show how I did my first commercial game. The code itself is pretty ugly as I was still learning C++ at the time.
+This is the source code of my first Windows Store game "Break It". All assets have been removed from the project. This is a source file only repository. It contains no project/build files. It is build on top of DirectXTK (header files included, however lib is missing). The purpose of this repository is just to provide the source files of my first Windows Store game for anyone that is interested in the details. This repository is not maintained in any way.
 
-License
--------
+### License
 See [LICENSE](LICENSE) file.
